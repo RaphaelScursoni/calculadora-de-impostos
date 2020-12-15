@@ -1,0 +1,13 @@
+C:\Users\convencaoinfo10\source\repos\Impostos\Impostos\obj\Debug\netcoreapp3.1\Impostos.csprojAssemblyReference.cache
+C:\Users\convencaoinfo10\source\repos\Impostos\Impostos\obj\Debug\netcoreapp3.1\Impostos.csproj.CoreCompileInputs.cache
+C:\Users\convencaoinfo10\source\repos\Impostos\Impostos\obj\Debug\netcoreapp3.1\Impostos.AssemblyInfoInputs.cache
+C:\Users\convencaoinfo10\source\repos\Impostos\Impostos\obj\Debug\netcoreapp3.1\Impostos.AssemblyInfo.cs
+C:\Users\convencaoinfo10\source\repos\Impostos\Impostos\bin\Debug\netcoreapp3.1\Impostos.exe
+C:\Users\convencaoinfo10\source\repos\Impostos\Impostos\bin\Debug\netcoreapp3.1\Impostos.deps.json
+C:\Users\convencaoinfo10\source\repos\Impostos\Impostos\bin\Debug\netcoreapp3.1\Impostos.runtimeconfig.json
+C:\Users\convencaoinfo10\source\repos\Impostos\Impostos\bin\Debug\netcoreapp3.1\Impostos.runtimeconfig.dev.json
+C:\Users\convencaoinfo10\source\repos\Impostos\Impostos\bin\Debug\netcoreapp3.1\Impostos.dll
+C:\Users\convencaoinfo10\source\repos\Impostos\Impostos\bin\Debug\netcoreapp3.1\Impostos.pdb
+C:\Users\convencaoinfo10\source\repos\Impostos\Impostos\obj\Debug\netcoreapp3.1\Impostos.dll
+C:\Users\convencaoinfo10\source\repos\Impostos\Impostos\obj\Debug\netcoreapp3.1\Impostos.pdb
+C:\Users\convencaoinfo10\source\repos\Impostos\Impostos\obj\Debug\netcoreapp3.1\Impostos.genruntimeconfig.cache

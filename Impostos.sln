@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Impostos", "Impostos\Impostos.csproj", "{C449810A-29C6-499C-843A-6B02354BEA85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C449810A-29C6-499C-843A-6B02354BEA85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C449810A-29C6-499C-843A-6B02354BEA85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C449810A-29C6-499C-843A-6B02354BEA85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C449810A-29C6-499C-843A-6B02354BEA85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D179B50-92C6-4CF4-9851-83B6E7248FB6}
+	EndGlobalSection
+EndGlobal
